@@ -13,3 +13,10 @@ Created using **HTML**, **CSS**, and **JavaScript**, featuring smooth scrolling,
 Home Page
 ![Home Page](Pictures/Home_page.png)
 
+Features 
+![Features](Pictures/Features.png)
+
+Gallery
+![Gallery](Pictures/Gallery_1.png)
+
+![Gallery](Pictures/Gallery_2.png)
