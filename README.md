@@ -9,16 +9,16 @@ Created using **HTML**, **CSS**, and **JavaScript**, featuring smooth scrolling,
 - Dynamic section reveals with Intersection Observer
 - Fully responsive layout
 
-## Preview
-# Home Page
+# Preview
+## Home Page
 ![Home Page](Pictures/Home_page.png)
 
 
-# Features 
+## Features 
 ![Features](Pictures/Features.png)
 
 
-# Gallery
+## Gallery
 ![Gallery](Pictures/Gallery_1.png)
 
 
